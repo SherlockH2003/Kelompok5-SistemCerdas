@@ -1,0 +1,5 @@
+tensorflow==2.18.0
+google-colab==1.0.0
+matplotlib==3.10.0
+numpy==2.0.2
+pandas==2.2.2
