@@ -3,7 +3,8 @@
 <img src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji8e19TWkWr_nRiO6vbzRG2_sXrXJjTEwZVvolrPdBcjRuiKCaThOoCPTE74uM0FqXy9yyWLRiHs3K9-7xARsgmUKtncy1XuITwbihAryixdiX1yzCR03KHC2ZkOViB-fQCUmnoCLpN26VTsQrVCuacGQwOUZ3fGXqSrhrZ4Cw84aiFh0TtCsw5HgH5fK2/s299/log-unsika.png' alt='logo unsika.png'>
 
 <h1>
-  Tugas Pertemuan 10 : Implementasi Proyek Kecerdasan Buatan
+  Tugas Pertemuan 10 : <br>
+  Implementasi Proyek Kecerdasan Buatan
 </h1>
 <h2>
   Kelompok 5
